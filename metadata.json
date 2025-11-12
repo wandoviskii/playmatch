@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PlayMatch",
+  "description": "Uma plataforma para encontrar e organizar partidas esportivas locais. Jogadores podem descobrir jogos próximos, e donos de quadras podem gerenciar suas instalações, reservas e pagamentos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
